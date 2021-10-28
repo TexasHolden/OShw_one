@@ -22,3 +22,7 @@ Note from the Creater:
 [4:20] I found things online that can prove to be helpful, but they all have consumer and producer as seperate files. They are helping me figure things out right now, so I am going to solve the problem with one file, then split it to two.
 [5:50] I feel that all the pieces are there, but what I need is to figure out the logic.
 [6:05] So...my code at the moment "works." However, it seems that their are two tables being made at a time. WHY? Is it the two for loops (one on consumer one on producer)? that wouldn't make sense due to every code having the loop act like this. There's something I missed.
+Sources:
+  https://medium.com/@sohamshah456/producer-consumer-programming-with-c-d0d47b8f103f
+  https://shivammitra.com/c/producer-consumer-problem-in-c/
+  https://www.youtube.com/watch?v=rPV6b8BUwxM&t=94s
